@@ -1,3 +1,4 @@
-# Travellist - Laravel Demo App
+# Gato App
 
-This is a Laravel 6 demo application to support our Laravel guides.
+Link de referencia
+https://www.digitalocean.com/community/tutorials/how-to-install-and-set-up-laravel-with-docker-compose-on-ubuntu-22-04
